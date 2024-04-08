@@ -1,0 +1,9 @@
+pencil
+5
+10
+box
+20
+5
+erasor
+5
+10
